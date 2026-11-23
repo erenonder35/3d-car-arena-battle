@@ -52,7 +52,7 @@ Open Unity Hub, click Add > Add project from disk, and select the cloned folder.
 Open the project using Unity 6 and press Play.
 
 Option 2: Playable Build (Windows)
-(Optional: Download the latest playable .zip build from the Releases section, extract it, and run My project.exe.)
+Download the latest playable .zip build from the Releases section, extract it, and run My project.exe.
 
 👥 Project Team
 Developed at Dokuz Eylül University, Faculty of Science, Department of Computer Science.
