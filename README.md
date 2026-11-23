@@ -47,7 +47,7 @@ Instead of a static map, players battle against AI bots on a constantly shrinkin
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/erenonder35/3d-car-arena-battle.git](https://github.com/erenonder35/3d-car-arena-battle.git)
+git clone https://github.com/erenonder35/3d-car-arena-battle.git
 ```
 
 2. Open **Unity Hub**, click **Add > Add project from disk**, and select the cloned folder.
