@@ -55,8 +55,8 @@ git clone https://github.com/erenonder35/3d-car-arena-battle.git
 
 ### Option 2: Playable Build (Windows)
 Download the latest playable `.zip` build from the [Releases](https://github.com/erenonder35/3d-car-arena-battle/releases/latest) section, extract it, and run `My project.exe`.
----
 
+---
 ## 👥 Project Team
 
 Developed at **Dokuz Eylül University, Faculty of Science, Department of Computer Science**.
