@@ -54,8 +54,7 @@ git clone https://github.com/erenonder35/3d-car-arena-battle.git
 3. Open the project using **Unity 6** and press **Play**.
 
 ### Option 2: Playable Build (Windows)
-Download the latest playable `.zip` build from the **Releases** section, extract it, and run `My project.exe`.
-
+Download the latest playable `.zip` build from the [Releases](https://github.com/erenonder35/3d-car-arena-battle/releases/latest) section, extract it, and run `My project.exe`.
 ---
 
 ## 👥 Project Team
