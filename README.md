@@ -45,26 +45,27 @@ Instead of a static map, players battle against AI bots on a constantly shrinkin
 
 ### Option 1: Open in Unity
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/erenonder35/3d-car-arena-battle.git](https://github.com/erenonder35/3d-car-arena-battle.git)
-Open Unity Hub, click Add > Add project from disk, and select the cloned folder.
 
-Open the project using Unity 6 and press Play.
+```bash
+git clone [https://github.com/erenonder35/3d-car-arena-battle.git](https://github.com/erenonder35/3d-car-arena-battle.git)
+```
 
-Option 2: Playable Build (Windows)
-Download the latest playable .zip build from the Releases section, extract it, and run My project.exe.
+2. Open **Unity Hub**, click **Add > Add project from disk**, and select the cloned folder.
+3. Open the project using **Unity 6** and press **Play**.
 
-👥 Project Team
-Developed at Dokuz Eylül University, Faculty of Science, Department of Computer Science.
+### Option 2: Playable Build (Windows)
+Download the latest playable `.zip` build from the **Releases** section, extract it, and run `My project.exe`.
 
-Eren Önder
+---
 
-Muhammet Emir Uygun
+## 👥 Project Team
 
-Harun Yardımcı
+Developed at **Dokuz Eylül University, Faculty of Science, Department of Computer Science**.
 
-Yaman Arıcı
+- **Eren Önder**
+- **Muhammet Emir Uygun**
+- **Harun Yardımcı**
+- **Yaman Arıcı**
+- **Emre Barış Borak**
 
-Emre Barış Borak
-
-Advisor: Assoc. Prof. Dr. Resmiye Nasiboğlu
+**Advisor:** Assoc. Prof. Dr. Resmiye Nasiboğlu
