@@ -11,6 +11,7 @@ Instead of a static map, players battle against AI bots on a constantly shrinkin
 ---
 
 ## 🎮 Gameplay & Features
+<img width="800" height="450" alt="VideoProject1-ezgif com-optimize" src="https://github.com/user-attachments/assets/ea60e3fb-dd2d-4ca0-904d-5b3a3138ef4c" />
 
 - **Last Car Standing:** Compete against AI bots in an elevated 3D arena and survive as the last vehicle standing.
 - **Dynamic Falling Arena:** Every tile reacts to vehicle contact—standing or driving on a tile triggers a countdown before it drops into the void and later respawns.
